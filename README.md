@@ -58,9 +58,9 @@ Customize how BugLens communicates with you:
 
 Responses tailored to your skill level:
 
-- **🌱 Beginner**: Detailed explanations with learning resources
-- **⚙️ Intermediate**: Balanced approach with best practices
-- **🚀 Senior**: Concise, technical insights
+- **Beginner**: Detailed explanations with learning resources
+- **Intermediate**: Balanced approach with best practices
+- **Senior**: Concise, technical insights
 
 ![Expertise Level](./screenshots/expertise-level.png)
 
@@ -154,7 +154,7 @@ BugLens/
     └── geminiService.ts    # Gemini AI integration
 ```
 
-## 🎨 Usage Examples
+## Usage Examples
 
 ### Example 1: Screenshot Analysis
 
@@ -183,7 +183,7 @@ BugLens/
 3. Get verbal and visual feedback
 4. Iterate with voice commands
 
-## 🔧 Configuration
+## Configuration
 
 ### Analysis Options
 
@@ -224,14 +224,14 @@ const LANGUAGES = {
 
 ## Use Cases
 
-- **🐛 Bug Investigation**: Quickly diagnose runtime errors
-- **📚 Learning**: Understand code issues at your level
-- **🔍 Code Review**: Get AI-powered code insights
-- **🧪 Test Generation**: Automatically create test cases
-- **🔐 Security Audit**: Identify vulnerabilities
-- **📊 Architecture Planning**: Visualize code structure
+- **Bug Investigation**: Quickly diagnose runtime errors
+- **Learning**: Understand code issues at your level
+- **Code Review**: Get AI-powered code insights
+- **Test Generation**: Automatically create test cases
+- **Security Audit**: Identify vulnerabilities
+- **Architecture Planning**: Visualize code structure
 
-## 🤝 Contributing
+## Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
@@ -241,22 +241,18 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## 📜 License
+## License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
-
-## 👨Author
-
-**Nour Ali Ahmed**
 
 ---
 
 <div align="center">
 
-**Made with ❤️ by Nour Ali Ahmed**
+**Made by Nour Ali Ahmed**
 
 ![BugLens Footer](./screenshots/footer.png)
 
-[⬆ Back to Top](#-buglens)
+[⬆ Back to Top](#buglens)
 
 </div>
